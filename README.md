@@ -1,0 +1,2 @@
+# SkibidiScript
+Gen Alpha Coding
